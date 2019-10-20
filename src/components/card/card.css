@@ -1,0 +1,22 @@
+.card-container {
+  margin-bottom: 10px;
+}
+.thumbnail-wrapper {
+  padding-top: 75%;
+  position: relative;
+  margin: 0;
+}
+.thumbnail {
+  position: absolute;
+  left: 0;
+  top: 0;
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+}
+.showContent {
+  display: block;
+}
+.hideContent {
+  display: none;
+}

@@ -1,0 +1,11 @@
+.load-more {
+  text-align: center;
+  margin: 10px 0;
+}
+.load-more__botton {
+  padding: 10px 50px;
+  border: none;
+  background: blue;
+  color: white;
+  cursor: pointer;
+}

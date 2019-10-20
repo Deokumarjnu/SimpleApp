@@ -1,0 +1,20 @@
+
+.banner-wrapper {
+  position: relative;
+  padding-top: 25%;
+  margin: 0;
+}
+.banner_img {
+  height: 100%;
+  left: 0;
+  top: 0;
+  width: 100%;
+  position: absolute;
+  object-fit: cover;
+}
+.wrapper {
+  display: grid;
+  grid-template-columns: 2fr 1fr;
+  width: 70%;
+  margin: 10px auto;
+}
